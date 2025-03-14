@@ -12,4 +12,4 @@ Este é um projeto simples de um quiz interativo criado para comemorar 1 ano de 
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seuusuario/quiz-aniversario.git
+   git clone https://github.com/Dvd-coder-art/quiz-aniversario.git
